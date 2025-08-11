@@ -26,8 +26,9 @@ I also continue building my knowledge in **data visualization, problem-solving s
 ## 🛠 Skills  
 
 **Languages:** Python, C++, C#  
-**Technologies:** VS Code, Git, GitHub, Figma, Canva  
-**Libraries:** pandas, NumPy, Matplotlib, Sympy  
+**Technologies:** VS Code, Git, GitHub, Figma, Canva, Docker, Jupyter Notebook
+**Web Development & Frameworks**:: HTML, CSS, SwiftUI, Firebase, Flask, FastAPI/REST API, Jinja
+**Libraries:** pandas, NumPy, Matplotlib, Sympy, Pandas
 **Core Competencies:** Algorithm Design, Data Analysis, Problem-Solving, Teaching/Mentoring  
 
 ---
