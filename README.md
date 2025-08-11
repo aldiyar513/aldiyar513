@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm **Aldiyar Kuanysh**  
 
 📍 *San Francisco, CA, United States*  
-📧 **aldiyar@uni.minerva.edu** |  [LinkedIn]([https://linkedin.com/in/aldiyar-kuanysh](https://www.linkedin.com/in/aldiyar-kuanysh-549b922a1/))  
+📧 **aldiyar@uni.minerva.edu** |  [LinkedIn]([https://linkedin.com/in/aldiyar-kuanysh](https://www.linkedin.com/in/aldiyar-kuanysh-549b922a1/)
 
 ---
 
